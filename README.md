@@ -1,2 +1,3 @@
 Integration of pytest runner with github actions
-[![Testing using Pytest](https://github.com/Amittyagivats/cicd-setup-with-github-actions/actions/workflows/pytest.yml/badge.svg)](https://github.com/Amittyagivats/cicd-setup-with-github-actions/actions/workflows/pytest.yml)
+
+[![CI/CD Pipeline](https://github.com/Amittyagivats/cicd_with_github_actions/actions/workflows/cicd.yml/badge.svg)](https://github.com/Amittyagivats/cicd_with_github_actions/actions/workflows/cicd.yml)
